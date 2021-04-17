@@ -6,13 +6,8 @@ I used both flutter and firebase for this app.
 <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/flow.png" width="200" height="400">
 </td><td>
  <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/search.png" width="200" height="400">
-</td>
- <td>
-<img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/flow.png" width="200" height="400">
-</td><td>
- <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/search.png" width="200" height="400">
-</td>
- <td>
+</td></tr>
+ <tr><td>
 <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/flow.png" width="200" height="400">
 </td><td>
  <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/search.png" width="200" height="400">
