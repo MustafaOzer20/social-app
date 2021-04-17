@@ -1,6 +1,6 @@
 # social_app
 
-A new Flutter application.
+I used both flutter and firebase for this app.
 
 
 <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/flow.png" width="200" height="400">
