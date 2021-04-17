@@ -2,6 +2,16 @@
 
 I used both flutter and firebase for this app.
 <table>
+ <tr><td>
+<img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/signin.png" width="200" height="400">
+</td><td>
+ <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/signup.png" width="200" height="400">
+</td></tr>
+ <tr><td>
+<img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/reset_passwd.png" width="200" height="400">
+</td><td>
+ <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/signin_with_google.png" width="200" height="400">
+</td></tr>
 <tr><td>
 <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/flow.png" width="200" height="400">
 </td><td>
