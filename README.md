@@ -2,32 +2,23 @@
 
 I used both flutter and firebase for this app.
 
-<table>
-  <td>
-    <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/flow.png" width="200" height="400">
-    <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/search.png" width="200" height="400">
-  </td>
-  <td>
-    <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/choice_photo.png" width="200" height="400">
-    <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/addpost.png" width="200" height="400">
-  </td>
-  <td>
-    <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/notifications.png" width="200" height="400">
-    <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/profile_grid.png" width="200" height="400">
-  </td>
-  <td>
-    <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/profile_list.png" width="200" height="400">
-    <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/edit_profile.png" width="200" height="400">
-  </td>
-  <td>
-    <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/user_profile.png" width="200" height="400">
+   <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/flow.png" width="200" height="400">
+   <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/search.png" width="200" height="400">
+
+   <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/choice_photo.png" width="200" height="400">
+   <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/addpost.png" width="200" height="400">
+
+   <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/notifications.png" width="200" height="400">
+   <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/profile_grid.png" width="200" height="400">
+
+   <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/profile_list.png" width="200" height="400">
+   <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/edit_profile.png" width="200" height="400">
+
+   <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/user_profile.png" width="200" height="400">
     <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/single_post.png" width="200" height="400">
-  </td>
-  <td>
     <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/comments.png" width="200" height="400">
     <img src="https://github.com/MustafaOzer20/social-app/blob/master/screenshots/comments.png" width="200" height="400">
-  </td>
-</table>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
